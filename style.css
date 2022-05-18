@@ -1,0 +1,15 @@
+.wrapper {
+    text-align: center;
+    width: 10%;
+    padding: 20px;
+    background-color: bisque;
+    border-radius: 15px;
+}
+
+.weather__logo {
+    height: 175px;
+    width: 175px;
+}
+
+
+
