@@ -1,6 +1,6 @@
 .wrapper {
     text-align: center;
-    width: 10%;
+    width: 100%;
     padding: 20px;
     background-color: bisque;
     border-radius: 15px;
@@ -8,7 +8,7 @@
 
 .weather__logo {
     height: 50%;
-    width: 50%;
+    width: 20%;
 }
 
 
